@@ -49,9 +49,6 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=manojkrishnachandragiri&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/manojkrishnachandragiri/manojkrishnachandragiri/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/manojkrishnachandragiri)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/manojkrishnachandragiri)  
