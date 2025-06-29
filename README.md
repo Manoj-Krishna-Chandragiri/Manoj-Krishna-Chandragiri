@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F700&lines=Welcome+to+my+GitHub+profile!;AI+%26+ML+enthusiast+%7C+Web+Developer+%7C+Open+Source+Contributor)
 
 ## 🚀 About Me
-🎓 B.Tech in Computer Science and Engineering (AI & ML) @ VVIT (8.42 CGPA)  
+🎓 B.Tech in Computer Science and Engineering (AI & ML) @ VVIT (8.51 CGPA)  
 📚 Reliance Foundation Scholar | NSP Merit-Scholar | NSF Scholar  
 🔭 Currently working on a **Sign Language Translator** using ML & Web technologies  
 🌱 Learning cutting-edge tech in AI/ML, Web Dev, and Software Engineering  
