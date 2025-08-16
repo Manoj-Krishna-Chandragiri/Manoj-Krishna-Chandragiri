@@ -81,7 +81,7 @@
 ## 🌟 Achievements
 - 🎖️ Reliance Foundation | NSP Merit | NSF USA Scholar  
 - 📊 93% in Intermediate @ Sri Chaitanya  
-- 🏅 GPA 9.0 in SSC @ St. Luke’s High School  
+- 🏅 GPA 9.0 in SSC @ St. Luke's High School  
 - 🗣️ Class Representative (CR)  
 
 ---
@@ -95,7 +95,7 @@
 - 📈 **Power BI Dashboard** – Kaggle Dataset + Excel  
 - 🧪 **Generative AI Web Project** – HTML, CSS, JS  
 - ☁️ **Ethical Hacking Workshop Website** – Deployed on AWS  
-- 🛤️ **RailMadad Clone** – Enhanced Indian Railways’ public grievance system with an AI-powered complaint classification and management module  
+- 🛤️ **RailMadad Clone** – Enhanced Indian Railways' public grievance system with an AI-powered complaint classification and management module  
 - 🍱 **MealsByManoj** – A meal-ordering web app with simple UI for local delivery tracking  
 - 🚕 **Uber Clone** – React + Firebase-based real-time cab booking interface  
 - 📦 **E-Commerce Web App (ManojKart)** – React.js, Spring Boot, REST API-based full-stack e-commerce site for electronics and fashion with product filters, cart, and secure authentication.
@@ -115,6 +115,19 @@
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=manoj-krishna-chandragiri&theme=tokyonight)](https://git.io/streak-stats)
+
+### 🎮 GitHub Breakout
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game based on GitHub Contributions" src="images/breakout-light.svg" />
+</picture>
 
 ### 🏙️ GitHub Skyline (3D Contributions)
 [🔗 View My Skyline](https://skyline.github.com/manoj-krishna-chandragiri)
